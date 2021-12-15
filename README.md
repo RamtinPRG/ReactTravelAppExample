@@ -1,4 +1,4 @@
-# ReactTravelAppExample
+# React Travel App Example
 Travel application intro page using ReactJS
 
 
